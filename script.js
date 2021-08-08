@@ -5,7 +5,7 @@ function compute(){
 
     //Check if amount field is empty
     if(amount == ""){
-        alert("Please enter the amount");
+        alert("Enter a positive number");
         document.getElementById("amount").focus();
         return false;
     }

@@ -18,5 +18,5 @@ body #content section article ul li button { padding: 2px 6px; font-size: 12px; 
 body .display_none { display: none; }
 body .display_block { display: block; }
 body #content footer { margin-top: 10px; font-weight: bold; }
-
+#boxDisplay span { color:yellow; }
 
